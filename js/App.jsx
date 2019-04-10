@@ -26,7 +26,7 @@ class App extends React.Component {
 							</Switch>
 						</div>
 					</div>
-				</Provider>
+				</Provider> 
 			</BrowserRouter>
 		);
 	}
